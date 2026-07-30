@@ -1,1 +1,2 @@
-
+pkg update
+pkg upgrade
